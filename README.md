@@ -4,7 +4,7 @@ Soy estudiante de 2º de FP en Desarrollo de Aplicaciones Multiplataforma y Web.
 
 Me considero un apasionado por la tecnología y la resolución de problemas. Me encanta aprender cosas nuevas y compartir conocimiento.
 
-## ¿Qué tecnologías utilizo? 🛠️
+## ¿Qué tecnologías utilizo?
 
 ### Lenguajes:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
