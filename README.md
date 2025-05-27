@@ -39,7 +39,7 @@ Este repositorio contiene proyectos desarrollados durante mis estudios en IES Sa
 Lo utilizo para practicar, aprender nuevas tecnologías y documentar mi crecimiento como desarrollador.
 
 ## ¿Cómo contactarme?
-Email: pablogarsanfor@gmail.com
+Email: pablogarsanfor@gmail.com \n
 LinkedIn: http://linkedin.com/in/pablogarciasanchezfortun
 
 <!---
